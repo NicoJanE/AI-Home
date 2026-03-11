@@ -9,7 +9,7 @@ This site covers AI related topics that I use, as a developer, to develop softwa
 The focus is on a complete picture of the AI Technique and related Tools/Agents so that one has a clear picture of how things work. While I believe that the 'Black Box' concept is a nice idea, I also feel that a developer or user should have a good conceptual understanding of how things work together.
 For my dedicated site see the site below
 
-> [Start here](https://github.com/NicoJanE/AI-Home)
+> [Start here](https://nicojane.github.io/AI-Home/)
 
 ## Features
 
