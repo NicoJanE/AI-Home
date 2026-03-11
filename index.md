@@ -35,28 +35,29 @@ The focus is on a complete picture of the AI Technique and related Tools/Agents 
 
 I will categorize the items I add into one of these three categories. Each category has its own section in this document. To provide broader knowledge as described in the introduction, items in one category will link to related items in other categories. For example, an item in the 'Agents' category may link to 'RAG' in the 'Techniques' category.
 
-- **Techniques**: General description of AI techniques
-- **Tools**: Tools used to prepare AI-related data or information
-- **Template Samples**:  Template samples based on the above categories, that can be used during development or that can be included in your application
+1. **Techniques**: General description of AI techniques
+2. **Tools**: Tools used to prepare AI-related data or information
+3. **Template Samples**:  Template samples based on the above categories, that can be used during development or that can be included in your application
 
-## Techniques
+##  Techniques
 
 This describes relevant AI techniques needed to understand the tools and template samples.
 
-### RAG
 
-## Tools
+##  Tools
 
 These tools are used in the samples that prepare or process AI-related data. 
 
-### Docling
-
-## Template samples
+## Samples
 
 This section provides practical, ready-to-use samples that apply the techniques and tools to your development or applications.
 
-### Docling Agents sample
 
+### 🧩 Docling Agent
+
+This is a CLI tool that demonstrates how to use RAG to embed documents and Source code results in your agent. click on the link below for the repository
+| <div align="left">↝ <sub>Repository</sub> <br><sub> &nbsp;&nbsp;&nbsp;&nbsp; 🔶 <a href="https://github.com/NicoJanE/ATS-docling-rag-agent" title="Click to visite the repository ">RAG Agent for  documents/mp3 & source code</a></sub></div> |
+|------------------------|
 
 
 
@@ -69,8 +70,7 @@ All repositories are [MIT licensed](MIT-license.md) and free to use. For optiona
 <div class="nje-br4"> </div>
 <div class="nje-br2"> </div>
 
-**Footnotes**{: style="color: Darkgray;font-size:11px; "} <br>
-<small> - <a name="note-1"></a> ***Note** 1: The new preferred, shorter prefix.*{: style="color: Darkgray;font-size:12px; "} </small>
+
 
 
 <br>
