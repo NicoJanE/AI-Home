@@ -2,11 +2,10 @@
 # - In Docker: rm -rf _site, stop container and start container
 
 
-# title: <font size="6">   <span style="color:#FFD700" >D</span>ocker <span style="color:#FFA500" >T</span>emplate <span style="color:#FF7F50" >S</span>tack Components </font>
-title: "<font size=\"6\">  AI Home  </font>"
-# description: <b><i><font size="3">Container templates that can be combined into complete stacks</span></font></i></b>
-#description: <b><i>  <font size="5">   <span style="color:#FFD700" >D</span><span style="color:#FFA500" >T</span><span style="color:#FF7F50" >S</span> – <span style="color:#FFD700" >D</span>ocker <span style="color:#FFA500" >T</span>emplate <span style="color:#FF7F50" >S</span>tacks </font></i></b>
-description: <b><i>  <font size="5"> <span style="color:#FFD700" >T</span>echniques,<span style="color:#FFA500" >T</span>ools &<span style="color:#FF7F50" >T</span>emplate Samples</font>           </i></b>
+
+title: "<font size=\"6\">  ATS: AI Home </font>"
+description: <b><i>  <font size="5"> <span style="color:#FFD700" >AI </span><span style="color:#FFA500" >T</span>echniques & <span style="color:#FF7F50" >S</span>amples</font>           </i></b>
+
 show_downloads: false
 google_site_verification: Todo
 
@@ -24,10 +23,12 @@ baseurl: "/AI-Home"
 # includes home links for this page, leave blank in case of no Home links. 
 # An toot site, so currently no other references to other main sites (cause there not available) 
 home_site_name: 
+    - ATS
     - DTS
     - WSL
     - Sponsor
 home_site_url: 
+    - https://nicojane.github.io/AI-Home/
     - https://nicojane.github.io/Docker-Template-Stacks-Home
     - https://nicojane.github.io/WSL-Template-Stacks-Home
     - https://nicojane.github.io/Docker-Template-Stacks-Home/sponsor

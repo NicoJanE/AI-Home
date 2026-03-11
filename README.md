@@ -1,5 +1,5 @@
 <h1> 
-  Welcome to the AI site <i><sub><sub> - Techniques, Tools & Agents </sub></sub></i>
+  Welcome to the ATS site <i><sub><sub> - AI Techniques, Tools & Samples </sub></sub></i>
 </h1>
 
 ![MIT License](https://img.shields.io/badge/License-MIT-green) ![Commercial Services Available](https://img.shields.io/badge/Services-Optional-blue)

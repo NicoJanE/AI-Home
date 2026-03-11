@@ -16,8 +16,8 @@ TableCont:
   <tr>
     <td style="vertical-align:middle; text-align:left;">
       <span style="font-size: 3.2em; font-weight: 550;">W</span>
-      <span style="font-size: 2.5em; font-weight: 500; margin-left: -0.2em;">elcome to the AI site</span> <br>
-      <span style="color: #409EFF; font-style: italic; font-size:1.1em; position:relative; top:-0.6em; display:inline-block;"> — Techniques, Tools & Agents</span>
+      <span style="font-size: 2.5em; font-weight: 500; margin-left: -0.2em;">elcome to the ATS site</span> <br>
+      <span style="color: #409EFF; font-style: italic; font-size:1.1em; position:relative; top:-0.6em; display:inline-block;"> — AI Techniques, Tools & Samples</span>
     </td>
     <td style="text-align:right; vertical-align:middle;">&nbsp;</td>
   </tr>
@@ -35,7 +35,7 @@ The focus is on a complete picture of the AI Technique and related Tools/Agents 
 
 I will categorize the items I add into one of these three categories. Each category has its own section in this document. To provide broader knowledge as described in the introduction, items in one category will link to related items in other categories. For example, an item in the 'Agents' category may link to 'RAG' in the 'Techniques' category.
 
-- **Techniques**: Description of the techniques used for specific tools and agents
+- **Techniques**: General description of AI techniques
 - **Tools**: Tools used to prepare AI-related data or information
 - **Template Samples**:  Template samples based on the above categories, that can be used during development or that can be included in your application
 
