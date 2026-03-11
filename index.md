@@ -45,10 +45,37 @@ I will categorize the items I add into one of these three categories. Each categ
 
 This describes relevant AI techniques needed to understand the tools and template samples.
 
+#### ℹ️ RAG
+
+RAG stands for **Retrieval Augmented Generation** more about it here:
+
+<details class="nje-back-box">
+  <summary>Technique RAG
+  </summary>
+
+## RAG Explained
+</details>
+
+----
+<br>
+
 
 ##  Tools
 
 These tools are used in the samples that prepare or process AI-related data. 
+
+#### ⚙️ Docling
+
+<details class="nje-back-box">
+  <summary>Tool Docling
+  </summary>
+
+## Docling
+</details>
+
+
+----
+<br>
 
 ## Samples
 
@@ -56,18 +83,23 @@ This section provides practical, ready-to-use samples that apply the techniques 
 
 <a id="Docling Agent"></a>
 
-### 🧩 Docling Agent
+#### 🧩 Docling Agent
 
 <div class="nje-info-box">
 <strong>Repository</strong><br>
  <a href="https://github.com/NicoJanE/ATS-docling-rag-agent"> 🔶 RAG Agent for  documents/mp3 & source codes</a>
 </div>
 
+----
+
+
+
 <br><br>
 
-### License
-
+##### License
+<small>
 All repositories are [MIT licensed](MIT-license.md) and free to use. For optional commercial support, customization, training, or long-term maintenance, see [`COMMERCIAL.md`](COMMERCIAL.md).
+</small>
 
 <div class="nje-br4"> </div>
 <div class="nje-br2"> </div>
