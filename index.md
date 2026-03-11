@@ -16,7 +16,7 @@ TableCont:
   <tr>
     <td style="vertical-align:middle; text-align:left;">
       <span style="font-size: 3.2em; font-weight: 550;">W</span>
-      <span style="font-size: 2.5em; font-weight: 500; margin-left: -0.2em;">elcome to my AI site</span> <br>
+      <span style="font-size: 2.5em; font-weight: 500; margin-left: -0.2em;">elcome to the AI site</span> <br>
       <span style="color: #409EFF; font-style: italic; font-size:1.1em; position:relative; top:-0.6em; display:inline-block;"> — Techniques, Tools & Agents</span>
     </td>
     <td style="text-align:right; vertical-align:middle;">&nbsp;</td>
@@ -41,13 +41,19 @@ I will categorize the items I add into one of these three categories. Each categ
 
 ## Techniques
 
+This describes relevant AI techniques needed to understand the tools and template samples.
+
 ### RAG
 
 ## Tools
 
+These tools are used in the samples that prepare or process AI-related data. 
+
 ### Docling
 
 ## Template samples
+
+This section provides practical, ready-to-use samples that apply the techniques and tools to your development or applications.
 
 ### Docling Agents sample
 

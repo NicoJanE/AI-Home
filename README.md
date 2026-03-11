@@ -9,14 +9,14 @@ This site covers AI related topics that I use, as a developer, to develop softwa
 The focus is on a complete picture of the AI Technique and related Tools/Agents so that one has a clear picture of how things work. While I believe that the 'Black Box' concept is a nice idea, I also feel that a developer or user should have a good conceptual understanding of how things work together.
 For my dedicated site see the site below
 
-> [Start here](https://nicojane.github.io/Docker-Template-Stacks-Home/index#2-the-available-stack-components)
+> [Start here](https://github.com/NicoJanE/AI-Home)
 
 ## Features
 
-- **Techniques**: Description of the techniques used for specific tools and agents
-- **Tools**: Tools used to prepare AI-related data or information
-- **Agents**: Agents used for development or user applications
- 
+- **Techniques**: This describes relevant AI techniques needed to understand the tools and template samples.
+- **Tools**: These tools are used in the samples that prepare or process AI-related data. 
+- **Template Samples**:  This section provides practical, ready-to-use samples that apply the techniques and tools to your development or applications.
+
 <br>
 
 > This site is Work in  Progress (March 2026)
