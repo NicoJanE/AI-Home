@@ -52,14 +52,12 @@ These tools are used in the samples that prepare or process AI-related data.
 
 This section provides practical, ready-to-use samples that apply the techniques and tools to your development or applications.
 
-
 ### 🧩 Docling Agent
 
-This is a CLI tool that demonstrates how to use RAG to embed documents and Source code results in your agent. click on the link below for the repository
-| <div align="left">↝ <sub>Repository</sub> <br><sub> &nbsp;&nbsp;&nbsp;&nbsp; 🔶 <a href="https://github.com/NicoJanE/ATS-docling-rag-agent" title="Click to visite the repository ">RAG Agent for  documents/mp3 & source code</a></sub></div> |
-|------------------------|
-
-
+<div class="nje-info-box">
+<strong>Repository</strong><br>
+ <a href="https://github.com/NicoJanE/ATS-docling-rag-agent"> 🔶 RAG Agent for  documents/mp3 & source codes</a>
+</div>
 
 <br><br>
 
