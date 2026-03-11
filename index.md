@@ -2,7 +2,7 @@
 layout: default_c
 RefPages:
 TableCont:
-- Docling Agent
+- Docling Agent(S)
 --- 
 
 <table class ="no-border"  style="width:100%;">
@@ -81,7 +81,7 @@ These tools are used in the samples that prepare or process AI-related data.
 
 This section provides practical, ready-to-use samples that apply the techniques and tools to your development or applications.
 
-<a id="Docling Agent"></a>
+<a id="Docling Agent(S)"></a>
 
 #### 🧩 Docling Agent
 
