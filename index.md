@@ -73,9 +73,20 @@ These tools are used in the samples that prepare or process AI-related data.
 
 #### ⚙️ Docling
 
-document intelligence tool that converts complex documents
+Document intelligence tool that converts complex documents
 [**More information here**](https://gist.github.com/NicoJanE/ce1702796c440ebb03e37f1493ea6a61.html)
 
+#### ⚙️ Ollama
+
+Ollama is an open-source, local framework for running, creating, and customizing large language models (LLMs) efficiently on your own machine.
+[**More information here**](https://gist.github.com/NicoJanE/e8dbb0b4df1c3ffec8c4602171515ae8)
+
+<!-- 
+- LMS Studio ✔️
+- TensorFlow ✔️
+  - TensorFlow.js ⛏️
+- Koboldcpp
+-->
 
 ---
 <br>
