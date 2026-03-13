@@ -3,7 +3,9 @@ layout: default_c
 RefPages:
 TableCont:
 - Docling Agent(S)
+- Ollama Agent(S)
 --- 
+<!-- markdownlint-disable  MD001 MD022 MD033 -->
 
 <table class ="no-border"  style="width:100%;">
   <tr>
@@ -33,7 +35,7 @@ This site covers AI related topics that I use, as a developer, to develop softwa
 
 The focus is on a complete picture of the AI Technique and related Tools/Agents so that one has a clear picture of how things work. While I believe that the 'Black Box' concept is a nice idea, I also feel that a developer or user should have a good conceptual understanding of how things work together.
 
-## Features
+### Features
 
 I will categorize the items I add into one of these three categories. Each category has its own section in this document. To provide broader knowledge as described in the introduction, items in one category will link to related items in other categories. For example, an item in the 'Agents' category may link to 'RAG' in the 'Techniques' category.
 
@@ -41,43 +43,44 @@ I will categorize the items I add into one of these three categories. Each categ
 2. **Tools**: Tools used to prepare AI-related data or information
 3. **Template Samples**:  Template samples based on the above categories, that can be used during development or that can be included in your application
 
+---
+
+<br>
+
 ##  Techniques
 
 This describes relevant AI techniques needed to understand the tools and template samples.
 
 #### ℹ️ RAG
 
-RAG stands for **Retrieval Augmented Generation** more about it here:
-
-<details class="nje-back-box">
-  <summary>Technique RAG
-  </summary>
-
-## RAG Explained
-</details>
+RAG stands for **Retrieval Augmented Generation**  
+[**More information here**](https://gist.github.com/NicoJanE/Todo.html)
 
 ----
+
+#### ℹ️ LangChain Framework
+
+LangChain is Framework to create agents while using RAG to include your locale documents  
+[**More information here**](https://gist.github.com/NicoJanE/2e4a9fcd8899c6ee2bc5363a0fb8c1d1.html)
+
+---
+
 <br>
 
-
-##  Tools
+## Tools
 
 These tools are used in the samples that prepare or process AI-related data. 
 
 #### ⚙️ Docling
 
-<details class="nje-back-box">
-  <summary>Tool Docling
-  </summary>
-
-## Docling
-</details>
+Docling is ...  
+[**More information here**](https://gist.github.com/NicoJanE/TODO.html)
 
 
 ----
 <br>
 
-## Samples
+## Samples & Template project
 
 This section provides practical, ready-to-use samples that apply the techniques and tools to your development or applications.
 
@@ -85,12 +88,27 @@ This section provides practical, ready-to-use samples that apply the techniques 
 
 #### 🧩 Docling Agent
 
+This is a (template) Sample RAG agent that can be used to include your documents and source code in LLM results.
+
 <div class="nje-info-box">
 <strong>Repository</strong><br>
  <a href="https://github.com/NicoJanE/ATS-docling-rag-agent"> 🔶 RAG Agent for  documents/mp3 & source codes</a>
 </div>
 
-----
+---
+
+<a id="Ollama Agent(S)"></a>
+
+#### 🧩 Ollama Agent
+
+This is a (template) Sample RAG agent that used Ollama and the LangChain Framework[ **More information here**](https://gist.github.com/NicoJanE/2e4a9fcd8899c6ee2bc5363a0fb8c1d1.html)
+
+<div class="nje-info-box">
+<strong>Repository</strong><br>
+ <a href="https://github.com/NicoJanE/ATS-ollama-rag-agent"> 🔶 Ollama RAG Agent</a>
+</div>
+
+---
 
 
 
