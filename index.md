@@ -54,13 +54,13 @@ This describes relevant AI techniques needed to understand the tools and templat
 #### ℹ️ RAG
 
 RAG stands for **Retrieval Augmented Generation**  
-[**More information here**](https://gist.github.com/NicoJanE/Todo.html)
+[**More information here**](https://gist.github.com/NicoJanE/bb8438f66d9a6ae4c88fd68f32a0f253.html)
 
-----
+---
 
 #### ℹ️ LangChain Framework
 
-LangChain is Framework to create agents while using RAG to include your locale documents  
+LangChain is a Framework to create agents while using RAG to include your locale documents  
 [**More information here**](https://gist.github.com/NicoJanE/2e4a9fcd8899c6ee2bc5363a0fb8c1d1.html)
 
 ---
@@ -73,11 +73,11 @@ These tools are used in the samples that prepare or process AI-related data.
 
 #### ⚙️ Docling
 
-Docling is ...  
-[**More information here**](https://gist.github.com/NicoJanE/TODO.html)
+document intelligence tool that converts complex documents
+[**More information here**](https://gist.github.com/NicoJanE/ce1702796c440ebb03e37f1493ea6a61.html)
 
 
-----
+---
 <br>
 
 ## Samples & Template project
@@ -88,7 +88,7 @@ This section provides practical, ready-to-use samples that apply the techniques 
 
 #### 🧩 Docling Agent
 
-This is a (template) Sample RAG agent that can be used to include your documents and source code in LLM results.
+This is a template RAG agent sample that can be used to include your documents and source code in LLM results.
 
 <div class="nje-info-box">
 <strong>Repository</strong><br>
@@ -101,7 +101,7 @@ This is a (template) Sample RAG agent that can be used to include your documents
 
 #### 🧩 Ollama Agent
 
-This is a (template) Sample RAG agent that used Ollama and the LangChain Framework[ **More information here**](https://gist.github.com/NicoJanE/2e4a9fcd8899c6ee2bc5363a0fb8c1d1.html)
+This is a template RAG agent sample that used Ollama and the LangChain Framework [**More information here**](https://gist.github.com/NicoJanE/2e4a9fcd8899c6ee2bc5363a0fb8c1d1.html)
 
 <div class="nje-info-box">
 <strong>Repository</strong><br>
